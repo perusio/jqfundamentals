@@ -20,14 +20,18 @@ necessitam de ser feitas.
 
 O conteúdos deste livro está escrito em
 [DocBook 5.0](http://www.docbook.org/), que é ligeiramente difícil
-devido à falta de bons editores XML livres, mas que é capaz de gerar
+devido à rarefacção de bons editores XML livres, mas que é capaz de gerar
 todo o tipo de formatos de saída, incluindo HMTL e PDF. Foi utilizada
 a versão gratuita do [XMLEditor](http://www.xmlmind.com/xmleditor/)
-para gerar os ficheiros para cada capítulo. Se está interessado em
-contribuir conteúdo mas não quer ter que escrever com o DocBook é
-possível chegar a um entendimento para que possamos
-colaborar. Acresce que se possui conteúdo que acha ser útil incluir no
-livro, notifique-me! O seu contributo será creditado. 
+para gerar os ficheiros para cada capítulo. 
+
+Pode também utilizar o [Emacs](http://www.gnu.org/software/emacs/) com
+o modo [nXML](http://www.thaiopensource.com/nxml-mode/).
+
+Se está interessado em contribuir conteúdo mas não quer ter que
+escrever com o DocBook é possível chegar a um entendimento para que
+possamos colaborar. Acresce que se possui conteúdo que acha ser útil
+incluir no livro, notifique-me! O seu contributo será creditado.
 
 
 ## Utilizar Este Material ##
