@@ -1,4 +1,3 @@
-<!-- -*-markdown-*- -->
 # jQuery Fundamentals Training Material #
 This repository contains evolving content to be used as teaching
 material for a jQuery Fundamentals class, including exercises,
